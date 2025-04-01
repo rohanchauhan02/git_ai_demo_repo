@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Prin("hello world")
-
+    // Corrected the function name from 'fmt.Prin' to 'fmt.Println'
+    fmt.Println("hello world")
 }
