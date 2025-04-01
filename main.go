@@ -3,6 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Prin("hello world")
-
+    // Corrected the typo from 'fmt.Prin' to 'fmt.Println'
+    fmt.Println("hello world")
 }
